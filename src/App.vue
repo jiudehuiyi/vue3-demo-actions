@@ -8,7 +8,7 @@ import TheWelcome from './components/TheWelcome.vue'
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
-      <HelloWorld msg="You did it!嘉慧444---wj---一个小娃娃--两个小娃娃" />
+      <HelloWorld msg="You did it!嘉慧444---wj---一个小娃娃--两个小娃娃--三个小娃娃" />
     </div>
   </header>
 
