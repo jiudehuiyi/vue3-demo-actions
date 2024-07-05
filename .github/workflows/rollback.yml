@@ -1,3 +1,4 @@
+name: Rollback
 on:
   workflow_dispatch:
     # inputs下面可以指定要手动输入的信息
