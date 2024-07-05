@@ -1,0 +1,10 @@
+on:
+  workflow_dispatch:
+    # inputs下面可以指定要手动输入的信息
+    inputs:
+      # 例如这里我指定了手动输入version信息
+      version:
+        # 这是对该信息的描述
+        description: "choose a version to deploy"
+        # 指定必须填写
+        required: true
